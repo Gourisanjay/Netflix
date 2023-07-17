@@ -1,3 +1,7 @@
+![Screenshot 2023-07-17 201336](https://github.com/Gourisanjay/Netflix-Application/assets/123082006/9e7cf8a3-e07e-4872-9dfb-5b7777c235ca)
+![Screenshot 2023-07-17 201715](https://github.com/Gourisanjay/Netflix-Application/assets/123082006/56cdc68d-8a86-4083-9470-4ba6de045d15)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
